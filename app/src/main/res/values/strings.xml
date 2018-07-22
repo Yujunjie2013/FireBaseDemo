@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireBaseDemo</string>
+    <string name="default_notification_channel_id">distrii</string>
+    <string name="noti_channel_default">default_channel</string>
+</resources>
